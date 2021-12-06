@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ba0bc98-fb8c-4968-8acb-7bdcfea5d808" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="132" />
+    <option name="y" value="122" />
+    <option name="width" value="1615" />
+    <option name="height" value="971" />
+  </component>
+  <component name="ProjectId" id="21HGC9pkI5ETWwGjf5mTzNwLShX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/train" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/train" />
+      <recent name="$PROJECT_DIR$/search" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/train" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="search_gd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="graduation_design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_gd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graduation_design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/train" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.search_gd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ba0bc98-fb8c-4968-8acb-7bdcfea5d808" name="Default Changelist" comment="" />
+      <created>1605092354406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605092354406</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638780271864">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="458" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.822@0.23.1440.822" timestamp="1638780271864" />
+    <state x="458" y="189" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.828@0.23.1440.828" timestamp="1637591261974" />
+    <state width="1419" height="212" key="GridCell.Tab.0.bottom" timestamp="1638784021193">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1419" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1638782818493" />
+    <state width="1419" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1638784021193" />
+    <state width="1419" height="212" key="GridCell.Tab.0.center" timestamp="1638784021192">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1419" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1638782818492" />
+    <state width="1419" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1638784021192" />
+    <state width="1419" height="212" key="GridCell.Tab.0.left" timestamp="1638784021192">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1419" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1638782818491" />
+    <state width="1419" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1638784021192" />
+    <state width="1419" height="212" key="GridCell.Tab.0.right" timestamp="1638784021193">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1419" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1638782818492" />
+    <state width="1419" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1638784021193" />
+    <state x="229" y="76" key="SettingsEditor" timestamp="1638782642554">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="229" y="76" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1638782642554" />
+    <state x="229" y="76" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1637648440574" />
+    <state x="376" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1638789627450">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="376" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1638768477686" />
+    <state x="376" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1638789627450" />
+    <state x="376" y="272" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1637593385146" />
+    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1638783403749">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1638783403749" />
+  </component>
+</project>
